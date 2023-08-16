@@ -1,0 +1,46 @@
+.Screen1{
+  background-image: url("https://th.bing.com/th/id/R.69504786b59de0cc403bd2225ef6bf51?rik=kuaFKZTiZiR7jQ&riu=http%3a%2f%2ffintech-bg.com%2fimg%2fslides%2fhomepage.jpg&ehk=KjUvBGiw9FWfduZYOzghsvT2H4Ta40gMemQ9u%2b7S1n0%3d&risl=&pid=ImgRaw&r=0");
+  height: 100vh;
+  width: 100%;
+}
+
+.logindata{
+  background-color: rgba(0, 0, 0, 0);
+  height: 15vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+#image1{
+  width: 10vh;
+  height: 10vh;
+  margin: 10px;
+}
+
+.contents{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.importanttopics{
+  margin: 0% auto;
+  width: 60vw;
+  height: 50vh;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+.search-bar-container{
+  display: flex;
+  flex-direction: column;
+  margin: 0% auto;
+  width: 60vw;
+  align-items: center;
+  justify-content: center;
+  min-width: 200px;
+}
+
+
